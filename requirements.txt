@@ -1,2 +1,2 @@
-discord
-openai
+discord.py
+ollama
